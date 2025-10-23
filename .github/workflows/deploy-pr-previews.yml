@@ -12,7 +12,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
-  pull-requests: read
+  pull-requests: write
 
 # Allow one concurrent deployment
 concurrency:
