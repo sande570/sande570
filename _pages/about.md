@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: Associate Professor of Linguistics, <a href='https://linguistics.berkeley.edu/'>UC Berkeley</a>
 
