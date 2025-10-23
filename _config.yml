@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Hannah
 middle_name:
 last_name: Sande
-contact_note: >
-  Best way to reach me is via email.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Associate Professor of Linguistics at UC Berkeley. Phonology, morphology, syntax, and documentary linguistics.
 footer_text: >
