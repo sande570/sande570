@@ -3,7 +3,7 @@ layout: page
 title: about me
 permalink: /aboutme/
 nav: true
-nav_order: 2
+nav_order: 6
 description:
 ---
 
