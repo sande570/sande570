@@ -201,7 +201,6 @@ Since this template have a lot of content, you may want to remove some of it. Th
 ```yml
 exclude:
   - _news/announcement_*.md
-  - _pages/blog.md
   - _posts/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
@@ -214,8 +213,8 @@ Here is a list of the main components that you may want to delete, and how to do
 To remove the blog, you have to:
 
 - delete [\_posts](_posts/) directory
-- delete blog page [\_pages/blog.md](_pages/blog.md)
-- remove reference to blog page in our [\_pages/dropdown.md](_pages/dropdown.md)
+- delete blog page (already removed in this site)
+- remove reference to blog page in dropdown menu (already removed in this site)
 - remove the `latest_posts` part in [\_pages/about.md](_pages/about.md)
 - remove the `Blog` section in the [\_config.yml](_config.yml) file and the related parts, like the `jekyll-archives`
 
@@ -242,8 +241,8 @@ To remove the news section, you can:
 To remove the projects, you can:
 
 - delete the [\_projects](_projects/) directory
-- delete the projects page [\_pages/projects.md](_pages/projects.md)
-- remove reference to projects page in our [\_pages/dropdown.md](_pages/dropdown.md)
+- delete the projects page (already removed in this site)
+- remove reference to projects page in dropdown menu (already removed in this site)
 - remove projects part in the `Collections` section in the [\_config.yml](_config.yml) file
 
 You can also:
@@ -256,8 +255,8 @@ You can also:
 To remove the publications, you can:
 
 - delete the [\_bibliography](_bibliography/) directory
-- delete the publications page [\_pages/publications.md](_pages/publications.md)
-- remove reference to publications page in our [\_pages/dropdown.md](_pages/dropdown.md)
+- delete the publications page (already removed in this site)
+- remove reference to publications page in dropdown menu (already removed in this site)
 - remove `Jekyll Scholar` section in the [\_config.yml](_config.yml) file
 
 You can also:
@@ -275,7 +274,7 @@ You can also:
 
 To remove the repositories, you can:
 
-- delete the repositories page [\_pages/repositories.md](_pages/repositories.md)
+- delete the repositories page (already removed in this site)
 - delete [\_includes/repository/](_includes/repository/) directory
 
 ## Adding Token for Lighthouse Badger
