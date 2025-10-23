@@ -311,7 +311,6 @@ jobs:
           path: staging
 
   combine-and-deploy:
-    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     needs: [build-main, build-pr-previews]
     environment:
