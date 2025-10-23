@@ -30,4 +30,4 @@ I am an Associate Professor in the [Department of Linguistics](https://linguisti
 
 My primary research focuses on Kru languages, particularly Guébie, spoken in Côte d'Ivoire. I have also conducted research on languages from multiple African language families, including Atchan and Ga (Kwa, Ghana), Lobi (Gur, Côte d'Ivoire), Nouchi (urban youth language), Dafing (Mande, Burkina Faso), Amharic (Semitic, Ethiopia), Nobiin (Nilotic, Sudan), and Moro (Kordofanian, Sudan).
 
-I am currently organizing [AMP 2025](https://amp2025.berkeley.edu/) at Berkeley. I also manage [Twisted Tongues](https://twistedtongues.org/), a database management tool for fieldworkers.
+I am currently organizing [AMP 2025](https://sites.google.com/berkeley.edu/amp2025/home) at Berkeley. I also manage [Twisted Tongues](https://www.twisted-tongues.com/), a database management tool for fieldworkers.
