@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Associate Professor in the [Department of Linguistics](https://linguistics.berkeley.edu/) at UC Berkeley. My research investigates phonological processes and the interfaces of phonology with syntax and morphology through documentary linguistic work.
+I am an Associate Professor of Linguistics at UC Berkeley. I carry out documentary linguistic work, which is informed by and contributes to linguistic theory. Specifically, I investigate phonological processes and the interfaces of phonology with syntax and morphology.
 
-My primary research focuses on Kru languages, particularly Guébie, spoken in Côte d'Ivoire. I have also conducted research on languages from multiple African language families, including Atchan and Ga (Kwa, Ghana), Lobi (Gur, Côte d'Ivoire), Nouchi (urban youth language), Dafing (Mande, Burkina Faso), Amharic (Semitic, Ethiopia), Nobiin (Nilotic, Sudan), and Moro (Kordofanian, Sudan).
+My research focuses on Kru languages, especially Guébie (Côte d'Ivoire). I have also worked with speakers of Atchan and Ga (Kwa, Ghana), Lobi (Gur, Côte d'Ivoire), Nouchi (urban youth language, Côte d'Ivoire), Dafing (Mande, Burkina Faso), Amharic (Semitic, Ethiopia), Nobiin (Nilotic, Sudan), and Moro (Kordofanian, Sudan).
 
-I am currently organizing [AMP 2025](https://sites.google.com/berkeley.edu/amp2025/home) at Berkeley. I also manage [Twisted Tongues](https://www.twisted-tongues.com/), a database management tool for fieldworkers.
+I also manage [Twisted Tongues](https://www.twisted-tongues.com/), a database management tool for fieldworkers.
